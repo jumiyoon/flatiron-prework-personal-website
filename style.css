@@ -1,13 +1,13 @@
 body {
-    background: #dfdcdf;
+    background-image: url(background-image.webp);
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
 .header {
-    width: 100%;
+    width: 80%;
     height: 100vh;
     padding: 0 10%;
-    background: #f7efef;
+   /* background: #f7efef;  */
 }
 
 /* nav */
@@ -35,11 +35,11 @@ nav ul li a {
 
 .self-intro {
     margin-top: 60px;
-    max-width: 800px;
+    max-width: 1200px;
 }
 
 .self-intro h1 {
-    font-size: 45px;
+    font-size: 80px;
     margin-bottom: 20px;
     color: #7e60b5;
 }
@@ -47,4 +47,5 @@ nav ul li a {
 .self-intro p {
     display: inline-block;
     color: rgb(138, 93, 127);
+    font-size: 20px;
 }
