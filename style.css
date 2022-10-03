@@ -28,6 +28,7 @@ nav ul li {
 
 nav ul li a {
     text-decoration: none; /* gets rid of the underline for hyperlinks */
+    font-size: 24px;
 }
 
 
@@ -35,7 +36,7 @@ nav ul li a {
 
 .self-intro {
     margin-top: 60px;
-    max-width: 1200px;
+    max-width: 2100px;
 }
 
 .self-intro h1 {
@@ -47,5 +48,17 @@ nav ul li a {
 .self-intro p {
     display: inline-block;
     color: rgb(138, 93, 127);
-    font-size: 20px;
+    font-size: 23px;
+    line-height: 30pt;
 }
+
+
+/* CV page */
+
+.resume {
+    text-align: center;
+    color: rgb(138, 93, 127);
+    font-size: 18px;
+}
+
+/* Personal Hobbies*/
