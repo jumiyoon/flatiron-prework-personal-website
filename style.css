@@ -62,3 +62,20 @@ nav ul li a {
 }
 
 /* Personal Hobbies*/
+.Hobbies {
+    text-align: right;
+}
+.Hobbies h1 {
+    font-size: 60px;
+    margin-bottom: 20px;
+    color: #7e60b5;
+}
+
+.Hobbies td {
+    display: inline-block;
+    color: rgb(138, 93, 127);
+    font-size: 20px;
+    line-height:30pt;
+    max-width: 660px;
+    padding-right: 20px;
+}
